@@ -1,0 +1,13 @@
+.navigation {
+    background-color: #f9f9f9;
+    margin-bottom: 1rem;
+
+    ul {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0.5rem;
+        gap: 1rem;
+        list-style: none;
+    }
+}
